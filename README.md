@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨‍💻 Alex Caetano dos Santos
 
-<!--
-**alexcaetanosup/alexcaetanosup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack focado em sistemas reais e escaláveis.
 
-Here are some ideas to get you started:
+🚀 **Tecnologias:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* TypeScript
+* Node.js
+* Firebird
+* WebSocket
+
+💡 **Especialidades:**
+
+* Sistemas financeiros
+* Dashboards interativos
+* Aplicações em tempo real
+* Geração de relatórios (PDF, exportações)
+
+---
+
+## 📌 Projetos em destaque
+
+### 💰 Sistema de Honorários Médicos
+
+Sistema completo para gestão de atendimentos, pagamentos e relatórios.
+
+### 💬 Chat em Tempo Real (WebSocket)
+
+Aplicação com múltiplos usuários, mensagens privadas e status online.
+
+### 📊 Dashboard Financeiro
+
+Análise de dados com indicadores como receita, crescimento e ticket médio.
+
+---
+
+## 📈 Objetivo
+
+Desenvolver aplicações completas, com foco em performance, usabilidade e valor de negócio.
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/alexcaetanosup
+* LinkedIn: https://www.linkedin.com/in/alex-caetano-dos-santos/
