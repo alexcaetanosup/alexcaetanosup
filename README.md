@@ -43,5 +43,5 @@ Desenvolver aplicações completas, com foco em performance, usabilidade e valor
 
 ## 📫 Contato
 
-* GitHub: https://github.com/alexcaetanosup
+* GitHub: https://github.com/alexcaetanosup/chm-app
 * LinkedIn: https://www.linkedin.com/in/alex-caetano-dos-santos/
